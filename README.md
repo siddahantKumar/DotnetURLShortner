@@ -24,11 +24,11 @@ To get a local copy up and running, follow these simple steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/poorna-soysa/url-shortener-app.git
+   git clone https://github.com/siddahantkumar/DotnetURLShortner.git
    ```
 2. Navigate to the project directory
    ```sh
-   cd url-shortener-app
+   cd DotnetURLShortner
    ```
 3. Restore dependencies:
    ```sh
@@ -72,6 +72,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Support
 
-If you find this project helpful, consider buying me a coffee!
+If you find this project helpful, feel free to star the repository!
 
-[![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/poorna.soysa)
+## Author
+
+**Siddahant Kumar**
+- GitHub: [@siddahantkumar](https://github.com/siddahantkumar)
